@@ -1,5 +1,5 @@
 # IF2Project-HEX-Game
-This project is not optimized and clean, dont pay attention 
-#Build
+Hex-Game made with SDL2, this project is not optimized and clean, dont pay attention 
 
-Just run the Makefile.
+# Build
+Just need to compile the Makefile.
