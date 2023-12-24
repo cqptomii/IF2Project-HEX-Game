@@ -8,3 +8,8 @@ Hex-Game made with SDL2, this project is not optimized and clean, dont pay atten
  3- Compile the Makefile.
 
 ````
+
+
+# Description
+
+![alt text](https://github.com/[cqptomii]/[IF2Project-HEX-Game]/image/img.jpg?raw=true)
